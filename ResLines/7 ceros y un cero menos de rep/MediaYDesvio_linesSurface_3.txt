@@ -1,0 +1,8 @@
+Bloque con entropia Mayor con numero de bloque: 3
+Media= 10.43035653470525
+Desvio Estandar= 10.43035653479921
+
+Bloque con entropia Menor con numero de bloque: 2
+Media= 15.099562692044152
+Desvio Estandar= 39.33037905495281
+
